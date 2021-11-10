@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 
   <summary>:zap: GitHub Stats</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samad-sust&count_private=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samad-sust&count_private=true&include_all_commits=true&show_icons=true)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samad-sust&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samad-sust&layout=compact&&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
