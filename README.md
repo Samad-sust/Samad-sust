@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Samad-sust/Samad-sust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,19 +55,6 @@ Here are some ideas to get you started:
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Samad-sust/portfolio-sass/issues/2) in [Samad-sust/portfolio-sass](https://github.com/Samad-sust/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/Samad-sust/portfolio-sass/issues/2) in [Samad-sust/portfolio-sass](https://github.com/Samad-sust/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/Samad-sust/free-developer-resources/pull/11) in [Samad-sust/free-developer-resources](https://github.com/Samad-sust/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/Samad-sust/free-developer-resources/issues/11) in [Samad-sust/free-developer-resources](https://github.com/Samad-sust/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/Samad-sust/free-developer-resources/pull/10) in [Samad-sust/free-developer-resources](https://github.com/Samad-sust/free-developer-resources)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
