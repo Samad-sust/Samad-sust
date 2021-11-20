@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ## I'm a Developer and active learner!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I am currently working with YSI Bangla Limited
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other content creators in ML or Django Projects
 - 🥅 2021 Goals: Contribute more and more
 
 ### Connect with me:
