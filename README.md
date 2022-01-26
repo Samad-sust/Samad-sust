@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## I'm a Developer and active learner!!
 
 - 🔭 I am currently working with YSI Bangla Limited
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Data science and Machine Learning
 - 👯 I’m looking to collaborate with other content creators in ML or Django Projects
 - 🥅 2021 Goals: Contribute more and more
 
