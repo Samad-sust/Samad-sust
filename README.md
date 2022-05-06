@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I am currently working with YSI Bangla Limited
 - 🌱 I’m currently learning Data science and Machine Learning
 - 👯 I’m looking to collaborate with other content creators in ML or Django Projects
-- 🥅 2021 Goals: Contribute more and more
+- 🥅 This year Goals: Contribute more and more
 
 ### Connect with me:
 
