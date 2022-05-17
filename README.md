@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Abdus 👋
 
 
-## I'm a Developer and active learner!!
+## I'm a Developer and an active learner!!
 
 - 🔭 I am currently working with YSI Bangla Limited
 - 🌱 I’m currently learning Data science and Machine Learning
