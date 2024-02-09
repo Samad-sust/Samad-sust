@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Abdus 👋
 
 
-## I'm a Researcher, Instructor, Developer, and an active learner!!
+## I'm a Research Enthusiast, Instructor, Developer, and an active learner!!
 
 - 🔭 I am currently working as a Research and Teaching Assistant at Shahjalal University and as a developer with YSI Bangla Limited
 - 🥅 This year Goals: Contribute more and more
